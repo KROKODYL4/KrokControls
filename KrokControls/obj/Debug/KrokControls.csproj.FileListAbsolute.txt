@@ -1,0 +1,9 @@
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\bin\Debug\KrokControls.dll
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\bin\Debug\KrokControls.pdb
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\obj\Debug\KrokControls.csproj.AssemblyReference.cache
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\obj\Debug\KrokControls.csproj.CoreCompileInputs.cache
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\obj\Debug\KrokControls.dll
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\obj\Debug\KrokControls.pdb
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\obj\Debug\KrokControls.csproj.GenerateResource.cache
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\obj\Debug\KrokControls.Properties.Resources.resources
+F:\__PROGRAMMING\C#\W TRAKCIE PRACY\KrokControls\KrokControls\obj\Debug\KrokControls.TextBoxes.KrokTextBox.resources
